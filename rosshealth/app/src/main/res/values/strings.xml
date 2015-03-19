@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">Ross Health</string>
 
-    <string name="hello_world">Hello world!</string>
+    <string name="username_text">Username</string>
+    <string name="password_text">Password</string>
+    <string name="sign_in_text">Login</string>
     <string name="action_settings">Settings</string>
 </resources>
